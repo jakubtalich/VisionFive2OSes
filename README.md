@@ -9,3 +9,7 @@ https://debian.starfivetech.com/
 ## Armbian-like
 01. [Armbian](https://www.armbian.com/visionfive2/)
 02. [DietPi](https://dietpi.com/downloads/images/testing/)
+## openSUSE-based
+01. [openSUSE Tubmleweed](https://download.opensuse.org/repositories/devel:/RISCV:/Factory:/Contrib:/StarFive:/VisionFive2/images)
+## Gentoo
+01. [Experimental Gentoo image](https://drive.google.com/file/d/1eG2U524fg8umqlFMVcLrYclm_Wyigkid/)
