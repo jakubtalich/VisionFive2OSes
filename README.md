@@ -6,6 +6,8 @@ https://debian.starfivetech.com/
 01. [StarFive's Debian version 55](https://drive.google.com/drive/folders/1jljq2s1w9HXlw8cST0nMS-U2DKfk1iEB)
 02. [StarFive's Debian version 69](https://drive.google.com/drive/folders/1k8wmLspwEMWsUIePZDm13JDd6edWNxfO)
 03. [StarFive's Debian version 202302](https://drive.google.com/drive/folders/1dfEv2OMcmvBZbBWg1PL66jxJfEwKB5Ec)
+## Red Hat/Fedora-based
+01. [Fedora 37-20221130](https://github.com/initdc/rootfs-tools/releases/tag/visionfive2-fedora37)
 ## Armbian-like
 01. [Armbian](https://www.armbian.com/visionfive2/)
 02. [DietPi](https://dietpi.com/downloads/images/testing/)
